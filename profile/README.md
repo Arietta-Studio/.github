@@ -51,8 +51,8 @@ Every contribution lights up our path! Your donation, a beacon of support, prope
 
 <a href="https://opencollective.com/arietta-studio" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arietta-studio/.github/blob/main/static/sponsor-dark.png?raw=true">
-    <img  src="https://github.com/arietta-studio/.github/blob/main/static/sponsor-light.png?raw=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/arietta-studio/.github/blob/master/static/sponsor-dark.png?raw=true">
+    <img  src="https://github.com/arietta-studio/.github/blob/master/static/sponsor-light.png?raw=true">
   </picture>
 </a>
 
