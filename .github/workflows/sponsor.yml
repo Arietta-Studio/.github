@@ -11,10 +11,10 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Curl light
-        run: curl -o './static/sponsor-light.png' 'https://readme-wizard.arietta-studio.ai/api/sponsor'
+        run: curl -o './static/sponsor-light.png' 'https://readme-wizard.arietta.studio/api/sponsor'
 
       - name: Curl dark
-        run: curl -o './static/sponsor-dark.png' 'https://readme-wizard.arietta-studio.ai/api/sponsor?themeMode=dark'
+        run: curl -o './static/sponsor-dark.png' 'https://readme-wizard.arietta.studio/api/sponsor?themeMode=dark'
 
       - name: Commit changes
         run: |-

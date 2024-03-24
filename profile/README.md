@@ -70,7 +70,7 @@ Every contribution lights up our path! Your donation, a beacon of support, prope
 [discord-shield]: https://img.shields.io/discord/{code}?color=5865F2&label=discord&labelColor=black&logo=discord&logoColor=white&style=flat-square
 [github-link]: https://github.com/arietta-studio
 [github-star]: https://img.shields.io/github/stars/arietta-studio?color=ffcb47&labelColor=black&style=flat-square&logo=github
-[arietta-icons-date]: https://img.shields.io/github/release-date/arietta-studio/arietta-icons?labelColor=black&style=flat-square
+[arietta-icons-date]: https://img.shields.io/github/release-date/arietta-studio/arietta-assets?labelColor=black&style=flat-square
 [arietta-icons-downloads]: https://img.shields.io/npm/dt/@arietta-studio/icons?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [arietta-icons-github]: https://github.com/arietta-studio/arietta-icons
 [arietta-icons-link]: https://www.npmjs.com/package/@arietta-studio/icons
@@ -89,5 +89,5 @@ Every contribution lights up our path! Your donation, a beacon of support, prope
 [social-x-shield]: https://img.shields.io/badge/@arietta-studio-white?labelColor=black&logo=x&logoColor=white&style=flat-square
 [sponsor-link]: https://opencollective.com/arietta-studio "Become 🩷 Arietta Studio Sponsor"
 [sponsor-shield]: https://img.shields.io/opencollective/sponsors/arietta-studio?style=flat-square&logo=opencollective&logoColor=white&label=Arietta%20Studio%20Sponsor%3A&labelColor=f04f88&color=f04f88
-[vercel-link]: https://chat-preview.arietta-studio.ai
-[vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fchat-preview.arietta-studio.ai
+[vercel-link]: https://ui.arietta.studio
+[vercel-shield]: https://img.shields.io/website?down_message=offline&label=vercel&labelColor=black&logo=vercel&style=flat-square&up_message=online&url=https%3A%2F%2Fui.arietta.studio
